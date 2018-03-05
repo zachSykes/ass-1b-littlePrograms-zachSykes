@@ -1,7 +1,7 @@
 # ass-1b-littlePrograms-zachSykes
 This contains programs from ass-1b-codingAndQuestions
 
-## Programs in this
+## Programs in this Repository
 - Program_2_6 --------> FINISHED
 - Program_RQ_2_7 -----> FINISHED
 - Program_2_15
