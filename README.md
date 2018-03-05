@@ -22,5 +22,10 @@ This contains programs from ass-1b-codingAndQuestions
 - Program_4_24 -------> FINISHED
 
 ### Package Chapter 5
+- Program_5_1 --------> FINISHED
+- Program_5_2 --------> CREATED
+- Program_5_7 --------> CREATED
+- Program_5_9 --------> CREATED
+- Program_5_13 -------> CREATED
 - Program_5_18 -------> CREATED
 - Program_5_30 -------> CREATED
