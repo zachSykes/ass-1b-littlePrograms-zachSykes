@@ -11,7 +11,7 @@ This contains programs from ass-1b-codingAndQuestions
 - Program_2_18 -------> FINISHED
 
 ### Package Chapter 3
-- Program_3_11 -------> CREATED
+- Program_3_11 -------> FINISHED
 
 ### Package Chapter 4
 - Program_4_4and5 ----> CREATED
