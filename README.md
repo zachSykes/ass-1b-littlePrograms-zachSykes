@@ -7,7 +7,7 @@ This contains programs from ass-1b-codingAndQuestions
 - Program_2_15 -------> FINISHED
 - Program_2_16 -------> FINISHED
 - Program_2_17 -------> FINISHED
-- Program_2_18
+- Program_2_18 -------> FINISHED
 - Program_3_11
 - Program_4_4and5
 - Program_4_20
