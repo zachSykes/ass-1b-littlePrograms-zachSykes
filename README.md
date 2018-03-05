@@ -19,7 +19,7 @@ This contains programs from ass-1b-codingAndQuestions
 - Program_4_10 -------> FINISHED
 - Program_4_15 -------> FINISHED
 - Program_4_20 -------> FINISHED
-- Program_4_24 -------> CREATED
+- Program_4_24 -------> FINISHED
 
 ### Package Chapter 5
 - Program_5_18 -------> CREATED
